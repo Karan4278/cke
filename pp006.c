@@ -1,3 +1,5 @@
+//pp006:
+
 #include<stdio.h>
 int main()
 {
