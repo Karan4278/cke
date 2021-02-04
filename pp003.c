@@ -1,4 +1,4 @@
-//pp003: Write a program to input a number and check it to be even or odd using bitwise operator.
+//pp003:
 
 #include<stdio.h>
  int main()
