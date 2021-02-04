@@ -1,3 +1,5 @@
+//pp0010:
+
 #include<stdio.h>
 #include"pp010.h"
 int main()
