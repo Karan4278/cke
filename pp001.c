@@ -1,4 +1,4 @@
-//pp001: Write a program to input a number and check it to be even or odd using if statement.
+//pp001: 
 
 #include <stdio.h>
 int main() {
