@@ -1,4 +1,4 @@
-//pp002: Write a program to input a number and check it to be even or odd using switch statement.
+//pp002: 
 
 #include <stdio.h>
 int main()
